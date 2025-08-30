@@ -1,0 +1,9 @@
+
+Ejercicio 5:
+
+a: x + y = 1
+b: y >= x
+c: x = y
+d: x + y = 0
+e: z >= x ; z >= y
+f: x <= y + z   (REVISAR)

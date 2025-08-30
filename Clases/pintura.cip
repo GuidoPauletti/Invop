@@ -1,0 +1,15 @@
+STATISTICS
+  Problem name     : Pintura
+  Variables        : 2 (0 binary, 0 integer, 0 implicit integer, 2 continuous)
+  Constraints      : 4 initial, 4 maximal
+OBJECTIVE
+  Sense            : maximize
+VARIABLES
+  [continuous] <x1>: obj=5, original bounds=[0,+inf]
+  [continuous] <x2>: obj=4, original bounds=[0,+inf]
+CONSTRAINTS
+  [linear] <Cantidad de M1 disponible>:  +6<x1>[C] +4<x2>[C] <= 24;
+  [linear] <Cantidad de M2 disponible>: <x1>[C] +2<x2>[C] <= 6;
+  [linear] <Demanda PI>: <x1>[C] <= 2;
+  [linear] <Demanda PE>: <x2>[C] -<x1>[C] <= 1;
+END
