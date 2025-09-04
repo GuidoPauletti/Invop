@@ -1,0 +1,12 @@
+objective value:                                 9265
+y_0_0                                               1 	(obj:50)
+y_0_2                                               1 	(obj:50)
+y_1_0                                               1 	(obj:50)
+y_1_1                                               1 	(obj:50)
+y_2_0                                               1 	(obj:50)
+quinto                                              1 	(obj:15)
+x_2_0                                             400 	(obj:4)
+x_1_0                                             100 	(obj:7)
+x_0_0                                             300 	(obj:9)
+x_1_1                                             500 	(obj:4)
+x_0_2                                             400 	(obj:5)
